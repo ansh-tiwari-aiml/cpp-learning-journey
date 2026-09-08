@@ -8,7 +8,7 @@ B.Tech CSE (AIML) @ GNIOT, Greater Noida
 ### 📂 Repository Structure
 - `01-CPP-Language` -> 15 Lectures C++ Codes (Basics, Loops, Functions, Arrays, Strings)
 - `02-HackerRank-Practice` -> HackerRank C++ Solutions
-- `03-cpp-projects
+- `03-cpp-projects ` -> 01-cpp-calculator
 
 ### 🛠️ Tech Stack
 - Language: C++
